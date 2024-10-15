@@ -7,7 +7,8 @@ check out my progress here:
 
 [![My progress at 42](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)
 
-I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Currently, I'm working towards the Google Cybersecurity Certificate.
+I'm primarily learning C, and I have a strong interest in **Cybersecurity**.
+Currently, I'm working towards the Google Cybersecurity Certificate.
 
 ### Interests & Technologies
 - **Programming Languages:** C, C++
