@@ -2,7 +2,9 @@
 
 ### About Me
 I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensive programming academy that uses a project-based and peer-to-peer learning methodology. I'm progressing through the program
+
 —check out my progress here:
+
 [![My progress at 42](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)
 
 I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Currently, I'm working towards the Google Cybersecurity Certificate.
@@ -19,7 +21,7 @@ I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Cur
 
 ### Connect with Me
 You can find me here to exchange ideas and collaborate on projects:
-- **[LinkedIn]([https://www.linkedin.com/in/pbenitez](https://www.linkedin.com/in/pedrobenitezlopez)**
+- **[LinkedIn](https://www.linkedin.com/in/pedrobenitezlopez)**
 
 Thanks for visiting my profile! 😊
 <!--
