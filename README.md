@@ -1,26 +1,23 @@
 # Hi, I'm Pedro Benítez 👋
 
-<div style="display: flex; justify-content: space-between;">
-
-<div>
+<table style="width: 100%; border: none;"><tr>
+<td style="width: 50%; vertical-align: top; border: none;">
 
 ### About Me
 I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensive programming academy that uses a project-based and peer-to-peer learning methodology. I'm progressing through the program.
 
 I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Currently, I'm working towards the Google Cybersecurity Certificate.
 
-</div>
-
-<div>
+</td>
+<td style="width: 50%; vertical-align: top; border: none;">
 
 ### My Progress at 42
 <a href="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off">
   <img src="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off" alt="My progress at 42" style="width: 100%; max-width: 500px;">
 </a>
 
-</div>
-
-</div>
+</td>
+</tr></table>
 
 ### Interests & Technologies
 - **Programming Languages:** C, C++
@@ -28,21 +25,18 @@ I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Cur
 - **Learning Methodology:** Peer-to-peer, project-based
 
 ### GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-
-<div>
+<table style="width: 100%; border: none;"><tr>
+<td style="width: 50%; vertical-align: top; border: none;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbenitez&show_icons=true&theme=radical)
 
-</div>
-
-<div>
+</td>
+<td style="width: 50%; vertical-align: top; border: none;">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbenitez&layout=compact&theme=radical)
 
-</div>
-
-</div>
+</td>
+</tr></table>
 
 ---
 
