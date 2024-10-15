@@ -5,11 +5,9 @@ I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensiv
 
 I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Currently, I'm working towards the Google Cybersecurity Certificate.
 
-<p align="center">
-  <a href="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off">
-    <img src="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off" alt="My progress at 42" style="max-width: 70%;">
-  </a>
-</p>
+<a href="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off">
+  <img src="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off" alt="My progress at 42">
+</a>
 
 ## Interests & Technologies
 - **Programming Languages:** C, C++
@@ -25,10 +23,6 @@ I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Cur
 ---
 
 ## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedrobenitezlopez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-Thanks for visiting my profile! 😊
+<a href="https://www.linkedin.com/in/pedrobenitezlopez">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
