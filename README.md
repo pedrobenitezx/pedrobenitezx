@@ -5,20 +5,30 @@ I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensiv
 
 I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Currently, I'm working towards the Google Cybersecurity Certificate.
 
-[![My progress at 42](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)
+<p align="center">
+  <a href="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off">
+    <img src="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off" alt="My progress at 42" style="max-width: 70%;">
+  </a>
+</p>
 
 ## Interests & Technologies
 - **Programming Languages:** C, C++
 - **Cybersecurity:** Pursuing Google Certificate
 - **Learning Methodology:** Peer-to-peer, project-based
 
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbenitez&show_icons=true&theme=github_dark)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbenitez&layout=compact&theme=github_dark)](https://github.com/pbenitez/)
+---
+
+## Featured Project 🌟
+### [Libft](https://github.com/pedrobenitezx/Libft)
+[Libft](https://github.com/pedrobenitezx/Libft) is a project that involves creating a C library for string manipulation.
 
 ---
 
 ## Connect with Me
-You can find me here to exchange ideas and collaborate on projects:
-- **[LinkedIn](https://www.linkedin.com/in/pbenitez)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrobenitezlopez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 Thanks for visiting my profile! 😊
