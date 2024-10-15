@@ -3,7 +3,7 @@
 ### About Me
 I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensive programming academy that uses a project-based and peer-to-peer learning methodology. I'm progressing through the program
 
-—check out my progress here:
+check out my progress here:
 
 [![My progress at 42](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)](https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off)
 
