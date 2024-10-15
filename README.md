@@ -14,13 +14,9 @@ I'm primarily learning C, and I have a strong interest in **Cybersecurity**. Cur
 - **Cybersecurity:** Pursuing Google Certificate
 - **Learning Methodology:** Peer-to-peer, project-based
 
----
-
 ## Featured Project 🌟
 ### [Libft](https://github.com/pedrobenitezx/Libft)
 [Libft](https://github.com/pedrobenitezx/Libft) is a project that involves creating a C library for string manipulation.
-
----
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/pedrobenitezlopez">
