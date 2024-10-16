@@ -1,10 +1,7 @@
-# Hi, I'm Pedro Benítez 👋
-
 ## About Me
 I am currently a student at [42 Málaga](https://www.42malaga.com/), an intensive programming academy that uses a project-based and peer-to-peer learning methodology. I'm progressing through the program.
 
 I'm primarily learning C, and I have a strong interest in **Cybersecurity**.
-Currently, I'm working towards the Google Cybersecurity Certificate.
 
 <a href="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off">
   <img src="https://badge.mediaplus.ma/kettlebells/pbenitez?1337Badge=off&UM6P=off" alt="My progress at 42">
