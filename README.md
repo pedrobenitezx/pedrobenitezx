@@ -8,7 +8,7 @@ I’m a self-taught developer with a passion for solving problems and creating m
 ## Interests & Technologies
 - **Programming Languages:** C, C++, JavaScript, Python
 - **Learning Methodology:** Peer-to-peer, project-based
-- - **FullStack Development**
+- **FullStack Development**
 
 ## Featured Project 🌟
 ### [Libft](https://github.com/pedrobenitezx/Libft)
