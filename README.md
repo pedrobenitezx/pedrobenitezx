@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Pedro Benítez!  
+# 👋 Hey
 
-I'm a self-taught developer passionate about problem-solving and creating meaningful solutions.  
-Currently studying at [42 Málaga](https://www.42malaga.com/), I focus on **full-stack development**, with experience in **game development** and **web technologies**.  
+I'm Pedro Benítez, a self-taught developer passionate about problem-solving and creating meaningful solutions.  
+Currently studying at [42 Málaga](https://www.42malaga.com/), I focus on **full-stack development**, with experience in **game development** and **web technologies**.
 
 ## 🚀 Tech Stack
 
